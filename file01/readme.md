@@ -6,4 +6,4 @@
 
 
 **#喜欢的照片**
-[linear]{https://github.com/ally0607/all-in-ally/blob/main/file01/QQ%E5%9B%BE%E7%89%8720210513162113.jpg}
+[linear]（https://github.com/ally0607/all-in-ally/blob/main/file01/QQ%E5%9B%BE%E7%89%8720210513162113.jpg）
