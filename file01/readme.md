@@ -9,5 +9,8 @@
 [linear](https://github.com/ally0607/all-in-ally/blob/main/file01/QQ%E5%9B%BE%E7%89%8720210513162113.jpg)
 
 **#作品**
-*关于美工
-[linear]
+
+* 1:关于美工
+[linear](https://github.com/ally0607/ZhuWeihan_414join/blob/main/file01/%E6%89%8B%E6%9C%BA%E5%9B%BE%E6%A0%87%20207020117%20%E6%9C%B1%E8%94%9A%E6%B6%B5.jpg)
+[linear](
+
